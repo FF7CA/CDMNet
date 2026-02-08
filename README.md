@@ -1,6 +1,6 @@
 # CDMNet
 
-**CDMNet** is an implementation of the paper CDMNet: A Cross-Domain Mamba Network with Joint Spatial-Frequency
+**CDMNet** is an implementation of the paper A Cross-Domain Mamba Network with Joint Spatial-Frequency
 Learning for Robust SAR Oil Spill Detection
 
 **Note**：This repository is undergoing revisions, and our paper is still under review.
