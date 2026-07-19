@@ -85,15 +85,15 @@ python train_supervision.py -c ./config/M4D/CDMNet.py
 ## :100: Testing
 
 ```
-python SOS_seg_test.py -c ./config/Palsar/RFMUNet.py -o /root/results/Palsar/CDMNet --rgb -t 'lr'
+python SOS_seg_test.py -c ./config/Palsar/CDMNet.py -o /root/results/Palsar/CDMNet --rgb -t 'lr'
 ```
 
 ```
-python SOS_seg_test.py -c ./config/Sentinel/RFMUNet.py -o /root/results/Sentinel/CDMNet --rgb -t 'lr'
+python SOS_seg_test.py -c ./config/Sentinel/CDMNet.py -o /root/results/Sentinel/CDMNet --rgb -t 'lr'
 ```
 
 ```
-python M4D_test.py -c ./config/M4D/RFMUNet.py -o /root/results/M4D/CDMNet --rgb -t 'lr'
+python M4D_test.py -c ./config/M4D/CDMNet.py -o /root/results/M4D/CDMNet --rgb -t 'lr'
 ```
 
 ---
