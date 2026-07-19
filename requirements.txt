@@ -1,0 +1,15 @@
+mamba-ssm==2.2.4
+timm==1.0.15
+transformers==4.50.0
+tensorboardX==2.6.2.2
+einops==0.8.1
+Pillow==11.1.0
+lightning
+pytorch-lightning==2.3.0
+albumentations
+ttach
+tqdm
+opencv-python
+scipy
+matplotlib
+addict
